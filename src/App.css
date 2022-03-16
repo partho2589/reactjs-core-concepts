@@ -37,5 +37,12 @@
   }
 }
 .container{
-  color: red;
+  background-color: aqua;
+}
+.person{
+  background-color: rgb(32, 117, 6);
+  border: 3px solid rgb(192, 48, 22);
+  padding: 20px;
+  margin: 10px;
+  border-radius: 20px;
 }
